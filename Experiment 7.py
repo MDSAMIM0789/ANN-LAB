@@ -83,3 +83,4 @@ for epoch in range(epochs):
 # Final predictions
 print(f"\nFinal Predictions for {gate} gate:")
 print(np.round(final_output, 3))
+ 
